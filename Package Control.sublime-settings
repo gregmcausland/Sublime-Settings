@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Babel",
+		"DocBlockr",
+		"Emmet",
+		"Gist",
+		"Github Tools",
+		"LESS",
+		"Material Theme",
+		"Numix Theme",
+		"Package Control",
+		"Predawn",
+		"Predawn Monokai",
+		"Predawn Twilight Theme",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Theme - Numix",
+		"Theme - Spacegray",
+		"WordPress Readme to Markdown"
+	]
+}

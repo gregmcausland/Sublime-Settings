@@ -1,0 +1,45 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_close_tags": false,
+	"auto_complete": true,
+	"auto_indent": true,
+	"auto_match_enabled": false,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"create_window_at_startup": false,
+	"detect_indentation": true,
+	"draw_minimap_border": true,
+	"draw_white_space": "none",
+	"fade_fold_buttons": false,
+	"find_selected_text": true,
+	"font_face": "Ubuntu Mono",
+	"font_options":
+	[
+		"gray_antialias",
+		"bold"
+	],
+	"font_size": 18,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"margin": 4,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": false,
+	"show_full_path": false,
+	"smart_indent": true,
+	"tab_size": 4,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": "true"
+}
